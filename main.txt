@@ -1,2 +1,2 @@
-main 1
+first 1
 main 2
